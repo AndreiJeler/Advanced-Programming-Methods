@@ -1,0 +1,3010 @@
+ID:5
+Exe Stack:
+((Ref(int) v1;Ref(int) v2);((int x;int q);((new(v1,ValueExp(20));new(v2,ValueExp(30)));((newLock(x);Fork((Fork((Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) - ValueExp(1) ));Unlock{x})));(Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) ));Unlock{x})))));((newLock(q);Fork((Fork((Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q})));(Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q})))));((No();No());((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q})))))))))) 
+SymTable:
+
+Out:
+
+File table:
+
+Heap:
+
+LockTable:
+
+
+ID:5
+Exe Stack:
+((int x;int q);((new(v1,ValueExp(20));new(v2,ValueExp(30)));((newLock(x);Fork((Fork((Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) - ValueExp(1) ));Unlock{x})));(Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) ));Unlock{x})))));((newLock(q);Fork((Fork((Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q})));(Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q})))));((No();No());((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q}))))))))) (Ref(int) v1;Ref(int) v2) 
+SymTable:
+
+Out:
+
+File table:
+
+Heap:
+
+LockTable:
+
+
+ID:5
+Exe Stack:
+((int x;int q);((new(v1,ValueExp(20));new(v2,ValueExp(30)));((newLock(x);Fork((Fork((Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) - ValueExp(1) ));Unlock{x})));(Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) ));Unlock{x})))));((newLock(q);Fork((Fork((Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q})));(Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q})))));((No();No());((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q}))))))))) (Ref(int) v1;Ref(int) v2) 
+SymTable:
+
+Out:
+
+File table:
+
+Heap:
+
+LockTable:
+
+
+ID:5
+Exe Stack:
+((int x;int q);((new(v1,ValueExp(20));new(v2,ValueExp(30)));((newLock(x);Fork((Fork((Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) - ValueExp(1) ));Unlock{x})));(Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) ));Unlock{x})))));((newLock(q);Fork((Fork((Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q})));(Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q})))));((No();No());((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q}))))))))) (Ref(int) v1;Ref(int) v2) 
+SymTable:
+
+Out:
+
+File table:
+
+Heap:
+
+LockTable:
+
+
+ID:5
+Exe Stack:
+((int x;int q);((new(v1,ValueExp(20));new(v2,ValueExp(30)));((newLock(x);Fork((Fork((Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) - ValueExp(1) ));Unlock{x})));(Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) ));Unlock{x})))));((newLock(q);Fork((Fork((Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q})));(Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q})))));((No();No());((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q}))))))))) Ref(int) v2 Ref(int) v1 
+SymTable:
+
+Out:
+
+File table:
+
+Heap:
+
+LockTable:
+
+
+ID:5
+Exe Stack:
+((int x;int q);((new(v1,ValueExp(20));new(v2,ValueExp(30)));((newLock(x);Fork((Fork((Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) - ValueExp(1) ));Unlock{x})));(Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) ));Unlock{x})))));((newLock(q);Fork((Fork((Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q})));(Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q})))));((No();No());((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q}))))))))) Ref(int) v2 Ref(int) v1 
+SymTable:
+
+Out:
+
+File table:
+
+Heap:
+
+LockTable:
+
+
+ID:5
+Exe Stack:
+((int x;int q);((new(v1,ValueExp(20));new(v2,ValueExp(30)));((newLock(x);Fork((Fork((Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) - ValueExp(1) ));Unlock{x})));(Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) ));Unlock{x})))));((newLock(q);Fork((Fork((Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q})));(Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q})))));((No();No());((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q}))))))))) Ref(int) v2 Ref(int) v1 
+SymTable:
+
+Out:
+
+File table:
+
+Heap:
+
+LockTable:
+
+
+ID:5
+Exe Stack:
+((int x;int q);((new(v1,ValueExp(20));new(v2,ValueExp(30)));((newLock(x);Fork((Fork((Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) - ValueExp(1) ));Unlock{x})));(Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) ));Unlock{x})))));((newLock(q);Fork((Fork((Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q})));(Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q})))));((No();No());((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q}))))))))) Ref(int) v2 
+SymTable:
+v1->RefValue(0,int) 
+Out:
+
+File table:
+
+Heap:
+
+LockTable:
+
+
+ID:5
+Exe Stack:
+((int x;int q);((new(v1,ValueExp(20));new(v2,ValueExp(30)));((newLock(x);Fork((Fork((Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) - ValueExp(1) ));Unlock{x})));(Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) ));Unlock{x})))));((newLock(q);Fork((Fork((Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q})));(Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q})))));((No();No());((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q}))))))))) Ref(int) v2 
+SymTable:
+v1->RefValue(0,int) 
+Out:
+
+File table:
+
+Heap:
+
+LockTable:
+
+
+ID:5
+Exe Stack:
+((int x;int q);((new(v1,ValueExp(20));new(v2,ValueExp(30)));((newLock(x);Fork((Fork((Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) - ValueExp(1) ));Unlock{x})));(Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) ));Unlock{x})))));((newLock(q);Fork((Fork((Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q})));(Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q})))));((No();No());((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q}))))))))) Ref(int) v2 
+SymTable:
+v1->RefValue(0,int) 
+Out:
+
+File table:
+
+Heap:
+
+LockTable:
+
+
+ID:5
+Exe Stack:
+((int x;int q);((new(v1,ValueExp(20));new(v2,ValueExp(30)));((newLock(x);Fork((Fork((Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) - ValueExp(1) ));Unlock{x})));(Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) ));Unlock{x})))));((newLock(q);Fork((Fork((Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q})));(Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q})))));((No();No());((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q}))))))))) 
+SymTable:
+v1->RefValue(0,int) v2->RefValue(0,int) 
+Out:
+
+File table:
+
+Heap:
+
+LockTable:
+
+
+ID:5
+Exe Stack:
+((int x;int q);((new(v1,ValueExp(20));new(v2,ValueExp(30)));((newLock(x);Fork((Fork((Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) - ValueExp(1) ));Unlock{x})));(Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) ));Unlock{x})))));((newLock(q);Fork((Fork((Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q})));(Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q})))));((No();No());((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q}))))))))) 
+SymTable:
+v1->RefValue(0,int) v2->RefValue(0,int) 
+Out:
+
+File table:
+
+Heap:
+
+LockTable:
+
+
+ID:5
+Exe Stack:
+((int x;int q);((new(v1,ValueExp(20));new(v2,ValueExp(30)));((newLock(x);Fork((Fork((Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) - ValueExp(1) ));Unlock{x})));(Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) ));Unlock{x})))));((newLock(q);Fork((Fork((Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q})));(Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q})))));((No();No());((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q}))))))))) 
+SymTable:
+v1->RefValue(0,int) v2->RefValue(0,int) 
+Out:
+
+File table:
+
+Heap:
+
+LockTable:
+
+
+ID:5
+Exe Stack:
+((new(v1,ValueExp(20));new(v2,ValueExp(30)));((newLock(x);Fork((Fork((Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) - ValueExp(1) ));Unlock{x})));(Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) ));Unlock{x})))));((newLock(q);Fork((Fork((Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q})));(Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q})))));((No();No());((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q})))))))) (int x;int q) 
+SymTable:
+v1->RefValue(0,int) v2->RefValue(0,int) 
+Out:
+
+File table:
+
+Heap:
+
+LockTable:
+
+
+ID:5
+Exe Stack:
+((new(v1,ValueExp(20));new(v2,ValueExp(30)));((newLock(x);Fork((Fork((Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) - ValueExp(1) ));Unlock{x})));(Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) ));Unlock{x})))));((newLock(q);Fork((Fork((Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q})));(Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q})))));((No();No());((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q})))))))) (int x;int q) 
+SymTable:
+v1->RefValue(0,int) v2->RefValue(0,int) 
+Out:
+
+File table:
+
+Heap:
+
+LockTable:
+
+
+ID:5
+Exe Stack:
+((new(v1,ValueExp(20));new(v2,ValueExp(30)));((newLock(x);Fork((Fork((Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) - ValueExp(1) ));Unlock{x})));(Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) ));Unlock{x})))));((newLock(q);Fork((Fork((Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q})));(Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q})))));((No();No());((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q})))))))) (int x;int q) 
+SymTable:
+v1->RefValue(0,int) v2->RefValue(0,int) 
+Out:
+
+File table:
+
+Heap:
+
+LockTable:
+
+
+ID:5
+Exe Stack:
+((new(v1,ValueExp(20));new(v2,ValueExp(30)));((newLock(x);Fork((Fork((Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) - ValueExp(1) ));Unlock{x})));(Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) ));Unlock{x})))));((newLock(q);Fork((Fork((Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q})));(Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q})))));((No();No());((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q})))))))) int q int x 
+SymTable:
+v1->RefValue(0,int) v2->RefValue(0,int) 
+Out:
+
+File table:
+
+Heap:
+
+LockTable:
+
+
+ID:5
+Exe Stack:
+((new(v1,ValueExp(20));new(v2,ValueExp(30)));((newLock(x);Fork((Fork((Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) - ValueExp(1) ));Unlock{x})));(Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) ));Unlock{x})))));((newLock(q);Fork((Fork((Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q})));(Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q})))));((No();No());((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q})))))))) int q int x 
+SymTable:
+v1->RefValue(0,int) v2->RefValue(0,int) 
+Out:
+
+File table:
+
+Heap:
+
+LockTable:
+
+
+ID:5
+Exe Stack:
+((new(v1,ValueExp(20));new(v2,ValueExp(30)));((newLock(x);Fork((Fork((Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) - ValueExp(1) ));Unlock{x})));(Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) ));Unlock{x})))));((newLock(q);Fork((Fork((Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q})));(Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q})))));((No();No());((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q})))))))) int q int x 
+SymTable:
+v1->RefValue(0,int) v2->RefValue(0,int) 
+Out:
+
+File table:
+
+Heap:
+
+LockTable:
+
+
+ID:5
+Exe Stack:
+((new(v1,ValueExp(20));new(v2,ValueExp(30)));((newLock(x);Fork((Fork((Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) - ValueExp(1) ));Unlock{x})));(Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) ));Unlock{x})))));((newLock(q);Fork((Fork((Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q})));(Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q})))));((No();No());((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q})))))))) int q 
+SymTable:
+x->0 v1->RefValue(0,int) v2->RefValue(0,int) 
+Out:
+
+File table:
+
+Heap:
+
+LockTable:
+
+
+ID:5
+Exe Stack:
+((new(v1,ValueExp(20));new(v2,ValueExp(30)));((newLock(x);Fork((Fork((Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) - ValueExp(1) ));Unlock{x})));(Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) ));Unlock{x})))));((newLock(q);Fork((Fork((Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q})));(Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q})))));((No();No());((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q})))))))) int q 
+SymTable:
+x->0 v1->RefValue(0,int) v2->RefValue(0,int) 
+Out:
+
+File table:
+
+Heap:
+
+LockTable:
+
+
+ID:5
+Exe Stack:
+((new(v1,ValueExp(20));new(v2,ValueExp(30)));((newLock(x);Fork((Fork((Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) - ValueExp(1) ));Unlock{x})));(Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) ));Unlock{x})))));((newLock(q);Fork((Fork((Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q})));(Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q})))));((No();No());((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q})))))))) int q 
+SymTable:
+x->0 v1->RefValue(0,int) v2->RefValue(0,int) 
+Out:
+
+File table:
+
+Heap:
+
+LockTable:
+
+
+ID:5
+Exe Stack:
+((new(v1,ValueExp(20));new(v2,ValueExp(30)));((newLock(x);Fork((Fork((Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) - ValueExp(1) ));Unlock{x})));(Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) ));Unlock{x})))));((newLock(q);Fork((Fork((Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q})));(Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q})))));((No();No());((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q})))))))) 
+SymTable:
+q->0 x->0 v1->RefValue(0,int) v2->RefValue(0,int) 
+Out:
+
+File table:
+
+Heap:
+
+LockTable:
+
+
+ID:5
+Exe Stack:
+((new(v1,ValueExp(20));new(v2,ValueExp(30)));((newLock(x);Fork((Fork((Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) - ValueExp(1) ));Unlock{x})));(Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) ));Unlock{x})))));((newLock(q);Fork((Fork((Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q})));(Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q})))));((No();No());((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q})))))))) 
+SymTable:
+q->0 x->0 v1->RefValue(0,int) v2->RefValue(0,int) 
+Out:
+
+File table:
+
+Heap:
+
+LockTable:
+
+
+ID:5
+Exe Stack:
+((new(v1,ValueExp(20));new(v2,ValueExp(30)));((newLock(x);Fork((Fork((Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) - ValueExp(1) ));Unlock{x})));(Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) ));Unlock{x})))));((newLock(q);Fork((Fork((Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q})));(Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q})))));((No();No());((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q})))))))) 
+SymTable:
+q->0 x->0 v1->RefValue(0,int) v2->RefValue(0,int) 
+Out:
+
+File table:
+
+Heap:
+
+LockTable:
+
+
+ID:5
+Exe Stack:
+((newLock(x);Fork((Fork((Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) - ValueExp(1) ));Unlock{x})));(Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) ));Unlock{x})))));((newLock(q);Fork((Fork((Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q})));(Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q})))));((No();No());((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q}))))))) (new(v1,ValueExp(20));new(v2,ValueExp(30))) 
+SymTable:
+q->0 x->0 v1->RefValue(0,int) v2->RefValue(0,int) 
+Out:
+
+File table:
+
+Heap:
+
+LockTable:
+
+
+ID:5
+Exe Stack:
+((newLock(x);Fork((Fork((Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) - ValueExp(1) ));Unlock{x})));(Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) ));Unlock{x})))));((newLock(q);Fork((Fork((Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q})));(Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q})))));((No();No());((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q}))))))) (new(v1,ValueExp(20));new(v2,ValueExp(30))) 
+SymTable:
+q->0 x->0 v1->RefValue(0,int) v2->RefValue(0,int) 
+Out:
+
+File table:
+
+Heap:
+
+LockTable:
+
+
+ID:5
+Exe Stack:
+((newLock(x);Fork((Fork((Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) - ValueExp(1) ));Unlock{x})));(Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) ));Unlock{x})))));((newLock(q);Fork((Fork((Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q})));(Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q})))));((No();No());((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q}))))))) (new(v1,ValueExp(20));new(v2,ValueExp(30))) 
+SymTable:
+q->0 x->0 v1->RefValue(0,int) v2->RefValue(0,int) 
+Out:
+
+File table:
+
+Heap:
+
+LockTable:
+
+
+ID:5
+Exe Stack:
+((newLock(x);Fork((Fork((Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) - ValueExp(1) ));Unlock{x})));(Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) ));Unlock{x})))));((newLock(q);Fork((Fork((Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q})));(Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q})))));((No();No());((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q}))))))) new(v2,ValueExp(30)) new(v1,ValueExp(20)) 
+SymTable:
+q->0 x->0 v1->RefValue(0,int) v2->RefValue(0,int) 
+Out:
+
+File table:
+
+Heap:
+
+LockTable:
+
+
+ID:5
+Exe Stack:
+((newLock(x);Fork((Fork((Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) - ValueExp(1) ));Unlock{x})));(Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) ));Unlock{x})))));((newLock(q);Fork((Fork((Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q})));(Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q})))));((No();No());((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q}))))))) new(v2,ValueExp(30)) new(v1,ValueExp(20)) 
+SymTable:
+q->0 x->0 v1->RefValue(0,int) v2->RefValue(0,int) 
+Out:
+
+File table:
+
+Heap:
+
+LockTable:
+
+
+ID:5
+Exe Stack:
+((newLock(x);Fork((Fork((Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) - ValueExp(1) ));Unlock{x})));(Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) ));Unlock{x})))));((newLock(q);Fork((Fork((Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q})));(Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q})))));((No();No());((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q}))))))) new(v2,ValueExp(30)) new(v1,ValueExp(20)) 
+SymTable:
+q->0 x->0 v1->RefValue(0,int) v2->RefValue(0,int) 
+Out:
+
+File table:
+
+Heap:
+
+LockTable:
+
+
+ID:5
+Exe Stack:
+((newLock(x);Fork((Fork((Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) - ValueExp(1) ));Unlock{x})));(Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) ));Unlock{x})))));((newLock(q);Fork((Fork((Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q})));(Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q})))));((No();No());((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q}))))))) new(v2,ValueExp(30)) 
+SymTable:
+q->0 x->0 v1->RefValue(1,int) v2->RefValue(0,int) 
+Out:
+
+File table:
+
+Heap:
+1->20 
+LockTable:
+
+
+ID:5
+Exe Stack:
+((newLock(x);Fork((Fork((Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) - ValueExp(1) ));Unlock{x})));(Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) ));Unlock{x})))));((newLock(q);Fork((Fork((Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q})));(Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q})))));((No();No());((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q}))))))) new(v2,ValueExp(30)) 
+SymTable:
+q->0 x->0 v1->RefValue(1,int) v2->RefValue(0,int) 
+Out:
+
+File table:
+
+Heap:
+1->20 
+LockTable:
+
+
+ID:5
+Exe Stack:
+((newLock(x);Fork((Fork((Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) - ValueExp(1) ));Unlock{x})));(Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) ));Unlock{x})))));((newLock(q);Fork((Fork((Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q})));(Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q})))));((No();No());((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q}))))))) new(v2,ValueExp(30)) 
+SymTable:
+q->0 x->0 v1->RefValue(1,int) v2->RefValue(0,int) 
+Out:
+
+File table:
+
+Heap:
+1->20 
+LockTable:
+
+
+ID:5
+Exe Stack:
+((newLock(x);Fork((Fork((Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) - ValueExp(1) ));Unlock{x})));(Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) ));Unlock{x})))));((newLock(q);Fork((Fork((Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q})));(Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q})))));((No();No());((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q}))))))) 
+SymTable:
+q->0 x->0 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->20 2->30 
+LockTable:
+
+
+ID:5
+Exe Stack:
+((newLock(x);Fork((Fork((Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) - ValueExp(1) ));Unlock{x})));(Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) ));Unlock{x})))));((newLock(q);Fork((Fork((Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q})));(Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q})))));((No();No());((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q}))))))) 
+SymTable:
+q->0 x->0 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->20 2->30 
+LockTable:
+
+
+ID:5
+Exe Stack:
+((newLock(x);Fork((Fork((Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) - ValueExp(1) ));Unlock{x})));(Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) ));Unlock{x})))));((newLock(q);Fork((Fork((Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q})));(Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q})))));((No();No());((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q}))))))) 
+SymTable:
+q->0 x->0 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->20 2->30 
+LockTable:
+
+
+ID:5
+Exe Stack:
+((newLock(q);Fork((Fork((Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q})));(Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q})))));((No();No());((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q})))))) (newLock(x);Fork((Fork((Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) - ValueExp(1) ));Unlock{x})));(Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) ));Unlock{x}))))) 
+SymTable:
+q->0 x->0 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->20 2->30 
+LockTable:
+
+
+ID:5
+Exe Stack:
+((newLock(q);Fork((Fork((Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q})));(Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q})))));((No();No());((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q})))))) (newLock(x);Fork((Fork((Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) - ValueExp(1) ));Unlock{x})));(Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) ));Unlock{x}))))) 
+SymTable:
+q->0 x->0 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->20 2->30 
+LockTable:
+
+
+ID:5
+Exe Stack:
+((newLock(q);Fork((Fork((Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q})));(Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q})))));((No();No());((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q})))))) (newLock(x);Fork((Fork((Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) - ValueExp(1) ));Unlock{x})));(Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) ));Unlock{x}))))) 
+SymTable:
+q->0 x->0 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->20 2->30 
+LockTable:
+
+
+ID:5
+Exe Stack:
+((newLock(q);Fork((Fork((Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q})));(Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q})))));((No();No());((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q})))))) Fork((Fork((Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) - ValueExp(1) ));Unlock{x})));(Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) ));Unlock{x})))) newLock(x) 
+SymTable:
+q->0 x->0 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->20 2->30 
+LockTable:
+
+
+ID:5
+Exe Stack:
+((newLock(q);Fork((Fork((Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q})));(Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q})))));((No();No());((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q})))))) Fork((Fork((Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) - ValueExp(1) ));Unlock{x})));(Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) ));Unlock{x})))) newLock(x) 
+SymTable:
+q->0 x->0 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->20 2->30 
+LockTable:
+
+
+ID:5
+Exe Stack:
+((newLock(q);Fork((Fork((Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q})));(Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q})))));((No();No());((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q})))))) Fork((Fork((Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) - ValueExp(1) ));Unlock{x})));(Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) ));Unlock{x})))) newLock(x) 
+SymTable:
+q->0 x->0 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->20 2->30 
+LockTable:
+
+
+ID:5
+Exe Stack:
+((newLock(q);Fork((Fork((Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q})));(Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q})))));((No();No());((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q})))))) Fork((Fork((Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) - ValueExp(1) ));Unlock{x})));(Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) ));Unlock{x})))) 
+SymTable:
+q->0 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->20 2->30 
+LockTable:
+1->-1 
+
+ID:5
+Exe Stack:
+((newLock(q);Fork((Fork((Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q})));(Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q})))));((No();No());((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q})))))) Fork((Fork((Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) - ValueExp(1) ));Unlock{x})));(Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) ));Unlock{x})))) 
+SymTable:
+q->0 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->20 2->30 
+LockTable:
+1->-1 
+
+ID:5
+Exe Stack:
+((newLock(q);Fork((Fork((Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q})));(Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q})))));((No();No());((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q})))))) Fork((Fork((Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) - ValueExp(1) ));Unlock{x})));(Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) ));Unlock{x})))) 
+SymTable:
+q->0 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->20 2->30 
+LockTable:
+1->-1 
+
+ID:5
+Exe Stack:
+((newLock(q);Fork((Fork((Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q})));(Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q})))));((No();No());((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q})))))) 
+SymTable:
+q->0 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->20 2->30 
+LockTable:
+1->-1 
+
+ID:6
+Exe Stack:
+(Fork((Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) - ValueExp(1) ));Unlock{x})));(Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) ));Unlock{x}))) 
+SymTable:
+q->0 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->20 2->30 
+LockTable:
+1->-1 
+
+ID:5
+Exe Stack:
+((newLock(q);Fork((Fork((Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q})));(Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q})))));((No();No());((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q})))))) 
+SymTable:
+q->0 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->20 2->30 
+LockTable:
+1->-1 
+
+ID:6
+Exe Stack:
+(Fork((Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) - ValueExp(1) ));Unlock{x})));(Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) ));Unlock{x}))) 
+SymTable:
+q->0 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->20 2->30 
+LockTable:
+1->-1 
+
+ID:5
+Exe Stack:
+((newLock(q);Fork((Fork((Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q})));(Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q})))));((No();No());((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q})))))) 
+SymTable:
+q->0 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->20 2->30 
+LockTable:
+1->-1 
+
+ID:6
+Exe Stack:
+(Fork((Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) - ValueExp(1) ));Unlock{x})));(Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) ));Unlock{x}))) 
+SymTable:
+q->0 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->20 2->30 
+LockTable:
+1->-1 
+
+ID:5
+Exe Stack:
+((No();No());((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q}))))) (newLock(q);Fork((Fork((Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q})));(Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q}))))) 
+SymTable:
+q->0 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->20 2->30 
+LockTable:
+1->-1 
+
+ID:6
+Exe Stack:
+(Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) ));Unlock{x})) Fork((Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) - ValueExp(1) ));Unlock{x}))) 
+SymTable:
+q->0 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->20 2->30 
+LockTable:
+1->-1 
+
+ID:5
+Exe Stack:
+((No();No());((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q}))))) (newLock(q);Fork((Fork((Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q})));(Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q}))))) 
+SymTable:
+q->0 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->20 2->30 
+LockTable:
+1->-1 
+
+ID:6
+Exe Stack:
+(Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) ));Unlock{x})) Fork((Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) - ValueExp(1) ));Unlock{x}))) 
+SymTable:
+q->0 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->20 2->30 
+LockTable:
+1->-1 
+
+ID:5
+Exe Stack:
+((No();No());((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q}))))) (newLock(q);Fork((Fork((Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q})));(Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q}))))) 
+SymTable:
+q->0 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->20 2->30 
+LockTable:
+1->-1 
+
+ID:6
+Exe Stack:
+(Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) ));Unlock{x})) Fork((Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) - ValueExp(1) ));Unlock{x}))) 
+SymTable:
+q->0 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->20 2->30 
+LockTable:
+1->-1 
+
+ID:5
+Exe Stack:
+((No();No());((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q}))))) Fork((Fork((Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q})));(Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q})))) newLock(q) 
+SymTable:
+q->0 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->20 2->30 
+LockTable:
+1->-1 
+
+ID:6
+Exe Stack:
+(Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) ));Unlock{x})) 
+SymTable:
+q->0 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->20 2->30 
+LockTable:
+1->-1 
+
+ID:7
+Exe Stack:
+(Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) - ValueExp(1) ));Unlock{x})) 
+SymTable:
+q->0 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->20 2->30 
+LockTable:
+1->-1 
+
+ID:5
+Exe Stack:
+((No();No());((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q}))))) Fork((Fork((Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q})));(Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q})))) newLock(q) 
+SymTable:
+q->0 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->20 2->30 
+LockTable:
+1->-1 
+
+ID:6
+Exe Stack:
+(Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) ));Unlock{x})) 
+SymTable:
+q->0 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->20 2->30 
+LockTable:
+1->-1 
+
+ID:7
+Exe Stack:
+(Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) - ValueExp(1) ));Unlock{x})) 
+SymTable:
+q->0 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->20 2->30 
+LockTable:
+1->-1 
+
+ID:5
+Exe Stack:
+((No();No());((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q}))))) Fork((Fork((Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q})));(Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q})))) newLock(q) 
+SymTable:
+q->0 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->20 2->30 
+LockTable:
+1->-1 
+
+ID:6
+Exe Stack:
+(Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) ));Unlock{x})) 
+SymTable:
+q->0 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->20 2->30 
+LockTable:
+1->-1 
+
+ID:7
+Exe Stack:
+(Lock{x};(wH(v1,ArithExpr(rh(Var(v1)) - ValueExp(1) ));Unlock{x})) 
+SymTable:
+q->0 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->20 2->30 
+LockTable:
+1->-1 
+
+ID:5
+Exe Stack:
+((No();No());((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q}))))) Fork((Fork((Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q})));(Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q})))) 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->20 2->30 
+LockTable:
+1->-1 2->-1 
+
+ID:6
+Exe Stack:
+(wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) ));Unlock{x}) Lock{x} 
+SymTable:
+q->0 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->20 2->30 
+LockTable:
+1->-1 2->-1 
+
+ID:7
+Exe Stack:
+(wH(v1,ArithExpr(rh(Var(v1)) - ValueExp(1) ));Unlock{x}) Lock{x} 
+SymTable:
+q->0 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->20 2->30 
+LockTable:
+1->-1 2->-1 
+
+ID:5
+Exe Stack:
+((No();No());((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q}))))) Fork((Fork((Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q})));(Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q})))) 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->20 2->30 
+LockTable:
+1->-1 2->-1 
+
+ID:6
+Exe Stack:
+(wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) ));Unlock{x}) Lock{x} 
+SymTable:
+q->0 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->20 2->30 
+LockTable:
+1->-1 2->-1 
+
+ID:7
+Exe Stack:
+(wH(v1,ArithExpr(rh(Var(v1)) - ValueExp(1) ));Unlock{x}) Lock{x} 
+SymTable:
+q->0 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->20 2->30 
+LockTable:
+1->-1 2->-1 
+
+ID:5
+Exe Stack:
+((No();No());((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q}))))) Fork((Fork((Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q})));(Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q})))) 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->20 2->30 
+LockTable:
+1->-1 2->-1 
+
+ID:6
+Exe Stack:
+(wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) ));Unlock{x}) Lock{x} 
+SymTable:
+q->0 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->20 2->30 
+LockTable:
+1->-1 2->-1 
+
+ID:7
+Exe Stack:
+(wH(v1,ArithExpr(rh(Var(v1)) - ValueExp(1) ));Unlock{x}) Lock{x} 
+SymTable:
+q->0 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->20 2->30 
+LockTable:
+1->-1 2->-1 
+
+ID:5
+Exe Stack:
+((No();No());((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q}))))) 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->20 2->30 
+LockTable:
+1->7 2->-1 
+
+ID:6
+Exe Stack:
+(wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) ));Unlock{x}) Lock{x} 
+SymTable:
+q->0 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->20 2->30 
+LockTable:
+1->7 2->-1 
+
+ID:7
+Exe Stack:
+(wH(v1,ArithExpr(rh(Var(v1)) - ValueExp(1) ));Unlock{x}) 
+SymTable:
+q->0 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->20 2->30 
+LockTable:
+1->7 2->-1 
+
+ID:8
+Exe Stack:
+(Fork((Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q})));(Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q}))) 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->20 2->30 
+LockTable:
+1->7 2->-1 
+
+ID:5
+Exe Stack:
+((No();No());((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q}))))) 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->20 2->30 
+LockTable:
+1->7 2->-1 
+
+ID:6
+Exe Stack:
+(wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) ));Unlock{x}) Lock{x} 
+SymTable:
+q->0 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->20 2->30 
+LockTable:
+1->7 2->-1 
+
+ID:7
+Exe Stack:
+(wH(v1,ArithExpr(rh(Var(v1)) - ValueExp(1) ));Unlock{x}) 
+SymTable:
+q->0 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->20 2->30 
+LockTable:
+1->7 2->-1 
+
+ID:8
+Exe Stack:
+(Fork((Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q})));(Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q}))) 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->20 2->30 
+LockTable:
+1->7 2->-1 
+
+ID:5
+Exe Stack:
+((No();No());((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q}))))) 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->20 2->30 
+LockTable:
+1->7 2->-1 
+
+ID:6
+Exe Stack:
+(wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) ));Unlock{x}) Lock{x} 
+SymTable:
+q->0 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->20 2->30 
+LockTable:
+1->7 2->-1 
+
+ID:7
+Exe Stack:
+(wH(v1,ArithExpr(rh(Var(v1)) - ValueExp(1) ));Unlock{x}) 
+SymTable:
+q->0 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->20 2->30 
+LockTable:
+1->7 2->-1 
+
+ID:8
+Exe Stack:
+(Fork((Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q})));(Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q}))) 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->20 2->30 
+LockTable:
+1->7 2->-1 
+
+ID:5
+Exe Stack:
+((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q})))) (No();No()) 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->20 2->30 
+LockTable:
+1->7 2->-1 
+
+ID:6
+Exe Stack:
+(wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) ));Unlock{x}) Lock{x} 
+SymTable:
+q->0 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->20 2->30 
+LockTable:
+1->7 2->-1 
+
+ID:7
+Exe Stack:
+Unlock{x} wH(v1,ArithExpr(rh(Var(v1)) - ValueExp(1) )) 
+SymTable:
+q->0 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->20 2->30 
+LockTable:
+1->7 2->-1 
+
+ID:8
+Exe Stack:
+(Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q})) Fork((Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q}))) 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->20 2->30 
+LockTable:
+1->7 2->-1 
+
+ID:5
+Exe Stack:
+((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q})))) (No();No()) 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->20 2->30 
+LockTable:
+1->7 2->-1 
+
+ID:6
+Exe Stack:
+(wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) ));Unlock{x}) Lock{x} 
+SymTable:
+q->0 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->20 2->30 
+LockTable:
+1->7 2->-1 
+
+ID:7
+Exe Stack:
+Unlock{x} wH(v1,ArithExpr(rh(Var(v1)) - ValueExp(1) )) 
+SymTable:
+q->0 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->20 2->30 
+LockTable:
+1->7 2->-1 
+
+ID:8
+Exe Stack:
+(Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q})) Fork((Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q}))) 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->20 2->30 
+LockTable:
+1->7 2->-1 
+
+ID:5
+Exe Stack:
+((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q})))) (No();No()) 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->20 2->30 
+LockTable:
+1->7 2->-1 
+
+ID:6
+Exe Stack:
+(wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) ));Unlock{x}) Lock{x} 
+SymTable:
+q->0 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->20 2->30 
+LockTable:
+1->7 2->-1 
+
+ID:7
+Exe Stack:
+Unlock{x} wH(v1,ArithExpr(rh(Var(v1)) - ValueExp(1) )) 
+SymTable:
+q->0 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->20 2->30 
+LockTable:
+1->7 2->-1 
+
+ID:8
+Exe Stack:
+(Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q})) Fork((Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q}))) 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->20 2->30 
+LockTable:
+1->7 2->-1 
+
+ID:5
+Exe Stack:
+((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q})))) No() No() 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->19 2->30 
+LockTable:
+1->7 2->-1 
+
+ID:6
+Exe Stack:
+(wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) ));Unlock{x}) Lock{x} 
+SymTable:
+q->0 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->19 2->30 
+LockTable:
+1->7 2->-1 
+
+ID:7
+Exe Stack:
+Unlock{x} 
+SymTable:
+q->0 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->19 2->30 
+LockTable:
+1->7 2->-1 
+
+ID:8
+Exe Stack:
+(Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q})) 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->19 2->30 
+LockTable:
+1->7 2->-1 
+
+ID:9
+Exe Stack:
+(Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q})) 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->19 2->30 
+LockTable:
+1->7 2->-1 
+
+ID:5
+Exe Stack:
+((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q})))) No() No() 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->19 2->30 
+LockTable:
+1->7 2->-1 
+
+ID:6
+Exe Stack:
+(wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) ));Unlock{x}) Lock{x} 
+SymTable:
+q->0 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->19 2->30 
+LockTable:
+1->7 2->-1 
+
+ID:7
+Exe Stack:
+Unlock{x} 
+SymTable:
+q->0 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->19 2->30 
+LockTable:
+1->7 2->-1 
+
+ID:8
+Exe Stack:
+(Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q})) 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->19 2->30 
+LockTable:
+1->7 2->-1 
+
+ID:9
+Exe Stack:
+(Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q})) 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->19 2->30 
+LockTable:
+1->7 2->-1 
+
+ID:5
+Exe Stack:
+((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q})))) No() No() 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->19 2->30 
+LockTable:
+1->7 2->-1 
+
+ID:6
+Exe Stack:
+(wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) ));Unlock{x}) Lock{x} 
+SymTable:
+q->0 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->19 2->30 
+LockTable:
+1->7 2->-1 
+
+ID:7
+Exe Stack:
+Unlock{x} 
+SymTable:
+q->0 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->19 2->30 
+LockTable:
+1->7 2->-1 
+
+ID:8
+Exe Stack:
+(Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q})) 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->19 2->30 
+LockTable:
+1->7 2->-1 
+
+ID:9
+Exe Stack:
+(Lock{q};(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q})) 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->19 2->30 
+LockTable:
+1->7 2->-1 
+
+ID:5
+Exe Stack:
+((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q})))) No() 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->19 2->30 
+LockTable:
+1->6 2->-1 
+
+ID:6
+Exe Stack:
+(wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) ));Unlock{x}) 
+SymTable:
+q->0 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->19 2->30 
+LockTable:
+1->6 2->-1 
+
+ID:7
+Exe Stack:
+
+SymTable:
+q->0 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->19 2->30 
+LockTable:
+1->6 2->-1 
+
+ID:8
+Exe Stack:
+(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q}) Lock{q} 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->19 2->30 
+LockTable:
+1->6 2->-1 
+
+ID:9
+Exe Stack:
+(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q}) Lock{q} 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->19 2->30 
+LockTable:
+1->6 2->-1 
+
+ID:5
+Exe Stack:
+((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q})))) No() 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->19 2->30 
+LockTable:
+1->6 2->-1 
+
+ID:6
+Exe Stack:
+(wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) ));Unlock{x}) 
+SymTable:
+q->0 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->19 2->30 
+LockTable:
+1->6 2->-1 
+
+ID:7
+Exe Stack:
+
+SymTable:
+q->0 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->19 2->30 
+LockTable:
+1->6 2->-1 
+
+ID:8
+Exe Stack:
+(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q}) Lock{q} 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->19 2->30 
+LockTable:
+1->6 2->-1 
+
+ID:9
+Exe Stack:
+(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q}) Lock{q} 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->19 2->30 
+LockTable:
+1->6 2->-1 
+
+ID:5
+Exe Stack:
+((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q})))) No() 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->19 2->30 
+LockTable:
+1->6 2->-1 
+
+ID:6
+Exe Stack:
+(wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) ));Unlock{x}) 
+SymTable:
+q->0 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->19 2->30 
+LockTable:
+1->6 2->-1 
+
+ID:8
+Exe Stack:
+(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q}) Lock{q} 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->19 2->30 
+LockTable:
+1->6 2->-1 
+
+ID:9
+Exe Stack:
+(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q}) Lock{q} 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->19 2->30 
+LockTable:
+1->6 2->-1 
+
+ID:5
+Exe Stack:
+((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q})))) 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->19 2->30 
+LockTable:
+1->6 2->8 
+
+ID:6
+Exe Stack:
+Unlock{x} wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) )) 
+SymTable:
+q->0 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->19 2->30 
+LockTable:
+1->6 2->8 
+
+ID:8
+Exe Stack:
+(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q}) 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->19 2->30 
+LockTable:
+1->6 2->8 
+
+ID:9
+Exe Stack:
+(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q}) Lock{q} 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->19 2->30 
+LockTable:
+1->6 2->8 
+
+ID:5
+Exe Stack:
+((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q})))) 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->19 2->30 
+LockTable:
+1->6 2->8 
+
+ID:6
+Exe Stack:
+Unlock{x} wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) )) 
+SymTable:
+q->0 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->19 2->30 
+LockTable:
+1->6 2->8 
+
+ID:8
+Exe Stack:
+(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q}) 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->19 2->30 
+LockTable:
+1->6 2->8 
+
+ID:9
+Exe Stack:
+(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q}) Lock{q} 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->19 2->30 
+LockTable:
+1->6 2->8 
+
+ID:5
+Exe Stack:
+((No();No());((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q})))) 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->19 2->30 
+LockTable:
+1->6 2->8 
+
+ID:6
+Exe Stack:
+Unlock{x} wH(v1,ArithExpr(rh(Var(v1)) * ValueExp(10) )) 
+SymTable:
+q->0 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->19 2->30 
+LockTable:
+1->6 2->8 
+
+ID:8
+Exe Stack:
+(wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) ));Unlock{q}) 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->19 2->30 
+LockTable:
+1->6 2->8 
+
+ID:9
+Exe Stack:
+(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q}) Lock{q} 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->19 2->30 
+LockTable:
+1->6 2->8 
+
+ID:5
+Exe Stack:
+((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q}))) (No();No()) 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->190 2->30 
+LockTable:
+1->6 2->8 
+
+ID:6
+Exe Stack:
+Unlock{x} 
+SymTable:
+q->0 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->190 2->30 
+LockTable:
+1->6 2->8 
+
+ID:8
+Exe Stack:
+Unlock{q} wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) )) 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->190 2->30 
+LockTable:
+1->6 2->8 
+
+ID:9
+Exe Stack:
+(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q}) Lock{q} 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->190 2->30 
+LockTable:
+1->6 2->8 
+
+ID:5
+Exe Stack:
+((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q}))) (No();No()) 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->190 2->30 
+LockTable:
+1->6 2->8 
+
+ID:6
+Exe Stack:
+Unlock{x} 
+SymTable:
+q->0 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->190 2->30 
+LockTable:
+1->6 2->8 
+
+ID:8
+Exe Stack:
+Unlock{q} wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) )) 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->190 2->30 
+LockTable:
+1->6 2->8 
+
+ID:9
+Exe Stack:
+(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q}) Lock{q} 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->190 2->30 
+LockTable:
+1->6 2->8 
+
+ID:5
+Exe Stack:
+((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q}))) (No();No()) 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->190 2->30 
+LockTable:
+1->6 2->8 
+
+ID:6
+Exe Stack:
+Unlock{x} 
+SymTable:
+q->0 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->190 2->30 
+LockTable:
+1->6 2->8 
+
+ID:8
+Exe Stack:
+Unlock{q} wH(v2,ArithExpr(rh(Var(v2)) * ValueExp(10) )) 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->190 2->30 
+LockTable:
+1->6 2->8 
+
+ID:9
+Exe Stack:
+(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q}) Lock{q} 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->190 2->30 
+LockTable:
+1->6 2->8 
+
+ID:5
+Exe Stack:
+((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q}))) No() No() 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->190 2->300 
+LockTable:
+1->-1 2->8 
+
+ID:6
+Exe Stack:
+
+SymTable:
+q->0 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->190 2->300 
+LockTable:
+1->-1 2->8 
+
+ID:8
+Exe Stack:
+Unlock{q} 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->190 2->300 
+LockTable:
+1->-1 2->8 
+
+ID:9
+Exe Stack:
+(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q}) Lock{q} 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->190 2->300 
+LockTable:
+1->-1 2->8 
+
+ID:5
+Exe Stack:
+((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q}))) No() No() 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->190 2->300 
+LockTable:
+1->-1 2->8 
+
+ID:6
+Exe Stack:
+
+SymTable:
+q->0 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->190 2->300 
+LockTable:
+1->-1 2->8 
+
+ID:8
+Exe Stack:
+Unlock{q} 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->190 2->300 
+LockTable:
+1->-1 2->8 
+
+ID:9
+Exe Stack:
+(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q}) Lock{q} 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->190 2->300 
+LockTable:
+1->-1 2->8 
+
+ID:5
+Exe Stack:
+((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q}))) No() No() 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->190 2->300 
+LockTable:
+1->-1 2->8 
+
+ID:8
+Exe Stack:
+Unlock{q} 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->190 2->300 
+LockTable:
+1->-1 2->8 
+
+ID:9
+Exe Stack:
+(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q}) Lock{q} 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->190 2->300 
+LockTable:
+1->-1 2->8 
+
+ID:5
+Exe Stack:
+((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q}))) No() 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->190 2->300 
+LockTable:
+1->-1 2->-1 
+
+ID:8
+Exe Stack:
+
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->190 2->300 
+LockTable:
+1->-1 2->-1 
+
+ID:9
+Exe Stack:
+(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q}) Lock{q} 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->190 2->300 
+LockTable:
+1->-1 2->-1 
+
+ID:5
+Exe Stack:
+((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q}))) No() 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->190 2->300 
+LockTable:
+1->-1 2->-1 
+
+ID:8
+Exe Stack:
+
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->190 2->300 
+LockTable:
+1->-1 2->-1 
+
+ID:9
+Exe Stack:
+(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q}) Lock{q} 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->190 2->300 
+LockTable:
+1->-1 2->-1 
+
+ID:5
+Exe Stack:
+((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q}))) No() 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->190 2->300 
+LockTable:
+1->-1 2->-1 
+
+ID:9
+Exe Stack:
+(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q}) Lock{q} 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->190 2->300 
+LockTable:
+1->-1 2->-1 
+
+ID:5
+Exe Stack:
+((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q}))) 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->190 2->300 
+LockTable:
+1->-1 2->9 
+
+ID:9
+Exe Stack:
+(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q}) 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->190 2->300 
+LockTable:
+1->-1 2->9 
+
+ID:5
+Exe Stack:
+((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q}))) 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->190 2->300 
+LockTable:
+1->-1 2->9 
+
+ID:9
+Exe Stack:
+(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q}) 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->190 2->300 
+LockTable:
+1->-1 2->9 
+
+ID:5
+Exe Stack:
+((Lock{x};print(rh(Var(v1))));((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q}))) 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->190 2->300 
+LockTable:
+1->-1 2->9 
+
+ID:9
+Exe Stack:
+(wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) ));Unlock{q}) 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->190 2->300 
+LockTable:
+1->-1 2->9 
+
+ID:5
+Exe Stack:
+((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q})) (Lock{x};print(rh(Var(v1)))) 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->190 2->300 
+LockTable:
+1->-1 2->9 
+
+ID:9
+Exe Stack:
+Unlock{q} wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) )) 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->190 2->300 
+LockTable:
+1->-1 2->9 
+
+ID:5
+Exe Stack:
+((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q})) (Lock{x};print(rh(Var(v1)))) 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->190 2->300 
+LockTable:
+1->-1 2->9 
+
+ID:9
+Exe Stack:
+Unlock{q} wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) )) 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->190 2->300 
+LockTable:
+1->-1 2->9 
+
+ID:5
+Exe Stack:
+((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q})) (Lock{x};print(rh(Var(v1)))) 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->190 2->300 
+LockTable:
+1->-1 2->9 
+
+ID:9
+Exe Stack:
+Unlock{q} wH(v2,ArithExpr(rh(Var(v2)) + ValueExp(5) )) 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->190 2->300 
+LockTable:
+1->-1 2->9 
+
+ID:5
+Exe Stack:
+((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q})) print(rh(Var(v1))) Lock{x} 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->190 2->305 
+LockTable:
+1->-1 2->9 
+
+ID:9
+Exe Stack:
+Unlock{q} 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->190 2->305 
+LockTable:
+1->-1 2->9 
+
+ID:5
+Exe Stack:
+((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q})) print(rh(Var(v1))) Lock{x} 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->190 2->305 
+LockTable:
+1->-1 2->9 
+
+ID:9
+Exe Stack:
+Unlock{q} 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->190 2->305 
+LockTable:
+1->-1 2->9 
+
+ID:5
+Exe Stack:
+((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q})) print(rh(Var(v1))) Lock{x} 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->190 2->305 
+LockTable:
+1->-1 2->9 
+
+ID:9
+Exe Stack:
+Unlock{q} 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->190 2->305 
+LockTable:
+1->-1 2->9 
+
+ID:5
+Exe Stack:
+((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q})) print(rh(Var(v1))) 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->190 2->305 
+LockTable:
+1->5 2->-1 
+
+ID:9
+Exe Stack:
+
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->190 2->305 
+LockTable:
+1->5 2->-1 
+
+ID:5
+Exe Stack:
+((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q})) print(rh(Var(v1))) 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->190 2->305 
+LockTable:
+1->5 2->-1 
+
+ID:9
+Exe Stack:
+
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->190 2->305 
+LockTable:
+1->5 2->-1 
+
+ID:5
+Exe Stack:
+((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q})) print(rh(Var(v1))) 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+
+File table:
+
+Heap:
+1->190 2->305 
+LockTable:
+1->5 2->-1 
+
+ID:5
+Exe Stack:
+((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q})) 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+190 
+File table:
+
+Heap:
+1->190 2->305 
+LockTable:
+1->5 2->-1 
+
+ID:5
+Exe Stack:
+((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q})) 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+190 
+File table:
+
+Heap:
+1->190 2->305 
+LockTable:
+1->5 2->-1 
+
+ID:5
+Exe Stack:
+((Unlock{x};Lock{q});(print(rh(Var(v2)));Unlock{q})) 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+190 
+File table:
+
+Heap:
+1->190 2->305 
+LockTable:
+1->5 2->-1 
+
+ID:5
+Exe Stack:
+(print(rh(Var(v2)));Unlock{q}) (Unlock{x};Lock{q}) 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+190 
+File table:
+
+Heap:
+1->190 2->305 
+LockTable:
+1->5 2->-1 
+
+ID:5
+Exe Stack:
+(print(rh(Var(v2)));Unlock{q}) (Unlock{x};Lock{q}) 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+190 
+File table:
+
+Heap:
+1->190 2->305 
+LockTable:
+1->5 2->-1 
+
+ID:5
+Exe Stack:
+(print(rh(Var(v2)));Unlock{q}) (Unlock{x};Lock{q}) 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+190 
+File table:
+
+Heap:
+1->190 2->305 
+LockTable:
+1->5 2->-1 
+
+ID:5
+Exe Stack:
+(print(rh(Var(v2)));Unlock{q}) Lock{q} Unlock{x} 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+190 
+File table:
+
+Heap:
+1->190 2->305 
+LockTable:
+1->5 2->-1 
+
+ID:5
+Exe Stack:
+(print(rh(Var(v2)));Unlock{q}) Lock{q} Unlock{x} 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+190 
+File table:
+
+Heap:
+1->190 2->305 
+LockTable:
+1->5 2->-1 
+
+ID:5
+Exe Stack:
+(print(rh(Var(v2)));Unlock{q}) Lock{q} Unlock{x} 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+190 
+File table:
+
+Heap:
+1->190 2->305 
+LockTable:
+1->5 2->-1 
+
+ID:5
+Exe Stack:
+(print(rh(Var(v2)));Unlock{q}) Lock{q} 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+190 
+File table:
+
+Heap:
+1->190 2->305 
+LockTable:
+1->-1 2->-1 
+
+ID:5
+Exe Stack:
+(print(rh(Var(v2)));Unlock{q}) Lock{q} 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+190 
+File table:
+
+Heap:
+1->190 2->305 
+LockTable:
+1->-1 2->-1 
+
+ID:5
+Exe Stack:
+(print(rh(Var(v2)));Unlock{q}) Lock{q} 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+190 
+File table:
+
+Heap:
+1->190 2->305 
+LockTable:
+1->-1 2->-1 
+
+ID:5
+Exe Stack:
+(print(rh(Var(v2)));Unlock{q}) 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+190 
+File table:
+
+Heap:
+1->190 2->305 
+LockTable:
+1->-1 2->5 
+
+ID:5
+Exe Stack:
+(print(rh(Var(v2)));Unlock{q}) 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+190 
+File table:
+
+Heap:
+1->190 2->305 
+LockTable:
+1->-1 2->5 
+
+ID:5
+Exe Stack:
+(print(rh(Var(v2)));Unlock{q}) 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+190 
+File table:
+
+Heap:
+1->190 2->305 
+LockTable:
+1->-1 2->5 
+
+ID:5
+Exe Stack:
+Unlock{q} print(rh(Var(v2))) 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+190 
+File table:
+
+Heap:
+1->190 2->305 
+LockTable:
+1->-1 2->5 
+
+ID:5
+Exe Stack:
+Unlock{q} print(rh(Var(v2))) 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+190 
+File table:
+
+Heap:
+1->190 2->305 
+LockTable:
+1->-1 2->5 
+
+ID:5
+Exe Stack:
+Unlock{q} print(rh(Var(v2))) 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+190 
+File table:
+
+Heap:
+1->190 2->305 
+LockTable:
+1->-1 2->5 
+
+ID:5
+Exe Stack:
+Unlock{q} 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+190 305 
+File table:
+
+Heap:
+1->190 2->305 
+LockTable:
+1->-1 2->5 
+
+ID:5
+Exe Stack:
+Unlock{q} 
+SymTable:
+q->2 x->1 v1->RefValue(1,int) v2->RefValue(2,int) 
+Out:
+190 305 
+File table:
+
+Heap:
+1->190 2->305 
+LockTable:
+1->-1 2->5 
+

@@ -1,0 +1,36 @@
+Exe Stack:
+(int v;(v=ValueExp(2);print(Var(v)))) 
+SymTable:
+
+Out:
+
+Exe Stack:
+
+SymTable:
+
+Out:
+
+Exe Stack:
+(v=ValueExp(2);print(Var(v))) 
+SymTable:
+
+Out:
+
+Exe Stack:
+
+SymTable:
+v->0 
+Out:
+
+Exe Stack:
+print(Var(v)) 
+SymTable:
+v->0 
+Out:
+
+Exe Stack:
+
+SymTable:
+v->2 
+Out:
+

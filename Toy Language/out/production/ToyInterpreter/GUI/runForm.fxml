@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="437.0" prefWidth="667.0" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="GUI.RunForm">
+   <children>
+      <ListView fx:id="listV" layoutX="12.0" layoutY="14.0" prefHeight="354.0" prefWidth="643.0" />
+      <Button fx:id="btn" layoutX="270.0" layoutY="372.0" mnemonicParsing="false" onAction="#pressBtn" prefHeight="39.0" prefWidth="118.0" text="Run Program" />
+   </children>
+</AnchorPane>

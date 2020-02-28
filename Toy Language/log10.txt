@@ -1,0 +1,504 @@
+ID:10
+Exe Stack:
+(int v;(Ref(int) a;(v=ValueExp(10);(new(a,ValueExp(22));(Fork((wH(a,ValueExp(30));(v=ValueExp(32);(print(Var(v));print(rh(Var(a)))))));(print(Var(v));print(rh(Var(a))))))))) 
+SymTable:
+
+Out:
+
+File table:
+
+Heap:
+
+
+ID:10
+Exe Stack:
+(Ref(int) a;(v=ValueExp(10);(new(a,ValueExp(22));(Fork((wH(a,ValueExp(30));(v=ValueExp(32);(print(Var(v));print(rh(Var(a)))))));(print(Var(v));print(rh(Var(a)))))))) int v 
+SymTable:
+
+Out:
+
+File table:
+
+Heap:
+
+
+ID:10
+Exe Stack:
+(Ref(int) a;(v=ValueExp(10);(new(a,ValueExp(22));(Fork((wH(a,ValueExp(30));(v=ValueExp(32);(print(Var(v));print(rh(Var(a)))))));(print(Var(v));print(rh(Var(a)))))))) int v 
+SymTable:
+
+Out:
+
+File table:
+
+Heap:
+
+
+ID:10
+Exe Stack:
+(Ref(int) a;(v=ValueExp(10);(new(a,ValueExp(22));(Fork((wH(a,ValueExp(30));(v=ValueExp(32);(print(Var(v));print(rh(Var(a)))))));(print(Var(v));print(rh(Var(a)))))))) 
+SymTable:
+v->0 
+Out:
+
+File table:
+
+Heap:
+
+
+ID:10
+Exe Stack:
+(Ref(int) a;(v=ValueExp(10);(new(a,ValueExp(22));(Fork((wH(a,ValueExp(30));(v=ValueExp(32);(print(Var(v));print(rh(Var(a)))))));(print(Var(v));print(rh(Var(a)))))))) 
+SymTable:
+v->0 
+Out:
+
+File table:
+
+Heap:
+
+
+ID:10
+Exe Stack:
+(v=ValueExp(10);(new(a,ValueExp(22));(Fork((wH(a,ValueExp(30));(v=ValueExp(32);(print(Var(v));print(rh(Var(a)))))));(print(Var(v));print(rh(Var(a))))))) Ref(int) a 
+SymTable:
+v->0 
+Out:
+
+File table:
+
+Heap:
+
+
+ID:10
+Exe Stack:
+(v=ValueExp(10);(new(a,ValueExp(22));(Fork((wH(a,ValueExp(30));(v=ValueExp(32);(print(Var(v));print(rh(Var(a)))))));(print(Var(v));print(rh(Var(a))))))) Ref(int) a 
+SymTable:
+v->0 
+Out:
+
+File table:
+
+Heap:
+
+
+ID:10
+Exe Stack:
+(v=ValueExp(10);(new(a,ValueExp(22));(Fork((wH(a,ValueExp(30));(v=ValueExp(32);(print(Var(v));print(rh(Var(a)))))));(print(Var(v));print(rh(Var(a))))))) 
+SymTable:
+a->RefValue(0,int) v->0 
+Out:
+
+File table:
+
+Heap:
+
+
+ID:10
+Exe Stack:
+(v=ValueExp(10);(new(a,ValueExp(22));(Fork((wH(a,ValueExp(30));(v=ValueExp(32);(print(Var(v));print(rh(Var(a)))))));(print(Var(v));print(rh(Var(a))))))) 
+SymTable:
+a->RefValue(0,int) v->0 
+Out:
+
+File table:
+
+Heap:
+
+
+ID:10
+Exe Stack:
+(new(a,ValueExp(22));(Fork((wH(a,ValueExp(30));(v=ValueExp(32);(print(Var(v));print(rh(Var(a)))))));(print(Var(v));print(rh(Var(a)))))) v=ValueExp(10) 
+SymTable:
+a->RefValue(0,int) v->0 
+Out:
+
+File table:
+
+Heap:
+
+
+ID:10
+Exe Stack:
+(new(a,ValueExp(22));(Fork((wH(a,ValueExp(30));(v=ValueExp(32);(print(Var(v));print(rh(Var(a)))))));(print(Var(v));print(rh(Var(a)))))) v=ValueExp(10) 
+SymTable:
+a->RefValue(0,int) v->0 
+Out:
+
+File table:
+
+Heap:
+
+
+ID:10
+Exe Stack:
+(new(a,ValueExp(22));(Fork((wH(a,ValueExp(30));(v=ValueExp(32);(print(Var(v));print(rh(Var(a)))))));(print(Var(v));print(rh(Var(a)))))) 
+SymTable:
+a->RefValue(0,int) v->10 
+Out:
+
+File table:
+
+Heap:
+
+
+ID:10
+Exe Stack:
+(new(a,ValueExp(22));(Fork((wH(a,ValueExp(30));(v=ValueExp(32);(print(Var(v));print(rh(Var(a)))))));(print(Var(v));print(rh(Var(a)))))) 
+SymTable:
+a->RefValue(0,int) v->10 
+Out:
+
+File table:
+
+Heap:
+
+
+ID:10
+Exe Stack:
+(Fork((wH(a,ValueExp(30));(v=ValueExp(32);(print(Var(v));print(rh(Var(a)))))));(print(Var(v));print(rh(Var(a))))) new(a,ValueExp(22)) 
+SymTable:
+a->RefValue(0,int) v->10 
+Out:
+
+File table:
+
+Heap:
+
+
+ID:10
+Exe Stack:
+(Fork((wH(a,ValueExp(30));(v=ValueExp(32);(print(Var(v));print(rh(Var(a)))))));(print(Var(v));print(rh(Var(a))))) new(a,ValueExp(22)) 
+SymTable:
+a->RefValue(0,int) v->10 
+Out:
+
+File table:
+
+Heap:
+
+
+ID:10
+Exe Stack:
+(Fork((wH(a,ValueExp(30));(v=ValueExp(32);(print(Var(v));print(rh(Var(a)))))));(print(Var(v));print(rh(Var(a))))) 
+SymTable:
+a->RefValue(1,int) v->10 
+Out:
+
+File table:
+
+Heap:
+1->22 
+
+ID:10
+Exe Stack:
+(Fork((wH(a,ValueExp(30));(v=ValueExp(32);(print(Var(v));print(rh(Var(a)))))));(print(Var(v));print(rh(Var(a))))) 
+SymTable:
+a->RefValue(1,int) v->10 
+Out:
+
+File table:
+
+Heap:
+1->22 
+
+ID:10
+Exe Stack:
+(print(Var(v));print(rh(Var(a)))) Fork((wH(a,ValueExp(30));(v=ValueExp(32);(print(Var(v));print(rh(Var(a))))))) 
+SymTable:
+a->RefValue(1,int) v->10 
+Out:
+
+File table:
+
+Heap:
+1->22 
+
+ID:10
+Exe Stack:
+(print(Var(v));print(rh(Var(a)))) Fork((wH(a,ValueExp(30));(v=ValueExp(32);(print(Var(v));print(rh(Var(a))))))) 
+SymTable:
+a->RefValue(1,int) v->10 
+Out:
+
+File table:
+
+Heap:
+1->22 
+
+ID:10
+Exe Stack:
+(print(Var(v));print(rh(Var(a)))) 
+SymTable:
+a->RefValue(1,int) v->10 
+Out:
+
+File table:
+
+Heap:
+1->22 
+
+ID:11
+Exe Stack:
+(wH(a,ValueExp(30));(v=ValueExp(32);(print(Var(v));print(rh(Var(a)))))) 
+SymTable:
+a->RefValue(1,int) v->10 
+Out:
+
+File table:
+
+Heap:
+1->22 
+
+ID:10
+Exe Stack:
+(print(Var(v));print(rh(Var(a)))) 
+SymTable:
+a->RefValue(1,int) v->10 
+Out:
+
+File table:
+
+Heap:
+1->22 
+
+ID:11
+Exe Stack:
+(wH(a,ValueExp(30));(v=ValueExp(32);(print(Var(v));print(rh(Var(a)))))) 
+SymTable:
+a->RefValue(1,int) v->10 
+Out:
+
+File table:
+
+Heap:
+1->22 
+
+ID:10
+Exe Stack:
+print(rh(Var(a))) print(Var(v)) 
+SymTable:
+a->RefValue(1,int) v->10 
+Out:
+
+File table:
+
+Heap:
+1->22 
+
+ID:11
+Exe Stack:
+(v=ValueExp(32);(print(Var(v));print(rh(Var(a))))) wH(a,ValueExp(30)) 
+SymTable:
+a->RefValue(1,int) v->10 
+Out:
+
+File table:
+
+Heap:
+1->22 
+
+ID:10
+Exe Stack:
+print(rh(Var(a))) print(Var(v)) 
+SymTable:
+a->RefValue(1,int) v->10 
+Out:
+
+File table:
+
+Heap:
+1->22 
+
+ID:11
+Exe Stack:
+(v=ValueExp(32);(print(Var(v));print(rh(Var(a))))) wH(a,ValueExp(30)) 
+SymTable:
+a->RefValue(1,int) v->10 
+Out:
+
+File table:
+
+Heap:
+1->22 
+
+ID:10
+Exe Stack:
+print(rh(Var(a))) 
+SymTable:
+a->RefValue(1,int) v->10 
+Out:
+10 
+File table:
+
+Heap:
+1->30 
+
+ID:11
+Exe Stack:
+(v=ValueExp(32);(print(Var(v));print(rh(Var(a))))) 
+SymTable:
+a->RefValue(1,int) v->10 
+Out:
+10 
+File table:
+
+Heap:
+1->30 
+
+ID:10
+Exe Stack:
+print(rh(Var(a))) 
+SymTable:
+a->RefValue(1,int) v->10 
+Out:
+10 
+File table:
+
+Heap:
+1->30 
+
+ID:11
+Exe Stack:
+(v=ValueExp(32);(print(Var(v));print(rh(Var(a))))) 
+SymTable:
+a->RefValue(1,int) v->10 
+Out:
+10 
+File table:
+
+Heap:
+1->30 
+
+ID:10
+Exe Stack:
+
+SymTable:
+a->RefValue(1,int) v->10 
+Out:
+10 30 
+File table:
+
+Heap:
+1->30 
+
+ID:11
+Exe Stack:
+(print(Var(v));print(rh(Var(a)))) v=ValueExp(32) 
+SymTable:
+a->RefValue(1,int) v->10 
+Out:
+10 30 
+File table:
+
+Heap:
+1->30 
+
+ID:11
+Exe Stack:
+(print(Var(v));print(rh(Var(a)))) v=ValueExp(32) 
+SymTable:
+a->RefValue(1,int) v->10 
+Out:
+10 30 
+File table:
+
+Heap:
+1->30 
+
+ID:11
+Exe Stack:
+(print(Var(v));print(rh(Var(a)))) 
+SymTable:
+a->RefValue(1,int) v->32 
+Out:
+10 30 
+File table:
+
+Heap:
+1->30 
+
+ID:11
+Exe Stack:
+(print(Var(v));print(rh(Var(a)))) 
+SymTable:
+a->RefValue(1,int) v->32 
+Out:
+10 30 
+File table:
+
+Heap:
+1->30 
+
+ID:11
+Exe Stack:
+print(rh(Var(a))) print(Var(v)) 
+SymTable:
+a->RefValue(1,int) v->32 
+Out:
+10 30 
+File table:
+
+Heap:
+1->30 
+
+ID:11
+Exe Stack:
+print(rh(Var(a))) print(Var(v)) 
+SymTable:
+a->RefValue(1,int) v->32 
+Out:
+10 30 
+File table:
+
+Heap:
+1->30 
+
+ID:11
+Exe Stack:
+print(rh(Var(a))) 
+SymTable:
+a->RefValue(1,int) v->32 
+Out:
+10 30 32 
+File table:
+
+Heap:
+1->30 
+
+ID:11
+Exe Stack:
+print(rh(Var(a))) 
+SymTable:
+a->RefValue(1,int) v->32 
+Out:
+10 30 32 
+File table:
+
+Heap:
+1->30 
+
+ID:11
+Exe Stack:
+
+SymTable:
+a->RefValue(1,int) v->32 
+Out:
+10 30 32 30 
+File table:
+
+Heap:
+1->30 
+
+ID:11
+Exe Stack:
+
+SymTable:
+a->RefValue(1,int) v->32 
+Out:
+10 30 32 30 
+File table:
+
+Heap:
+1->30 
+
